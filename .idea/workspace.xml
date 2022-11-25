@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9efbe1bb-f521-4ccb-9766-b126011edf02" name="Changes" comment="Question 5 done">
-      <change afterPath="$PROJECT_DIR$/src/Problem_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Project-Euler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-Euler/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -32,14 +33,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="src" />
@@ -55,7 +57,8 @@
       <updated>1669314979751</updated>
       <workItem from="1669314994130" duration="103000" />
       <workItem from="1669317072246" duration="1530000" />
-      <workItem from="1669374038264" duration="295000" />
+      <workItem from="1669374038264" duration="466000" />
+      <workItem from="1669405073834" duration="2970000" />
     </task>
     <task id="LOCAL-00001" summary="Question 5 done">
       <created>1669318726220</created>
@@ -84,5 +87,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Question 5 done" />
     <option name="LAST_COMMIT_MESSAGE" value="Question 5 done" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
