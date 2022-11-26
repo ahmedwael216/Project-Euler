@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9efbe1bb-f521-4ccb-9766-b126011edf02" name="Changes" comment="Question 5 done">
+      <change afterPath="$PROJECT_DIR$/src/Problem_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-Euler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-Euler/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-Euler/src/Problem_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-Euler/src/Problem_8.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Problem_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +60,8 @@
       <workItem from="1669317072246" duration="1530000" />
       <workItem from="1669374038264" duration="466000" />
       <workItem from="1669405073834" duration="3043000" />
-      <workItem from="1669481531026" duration="2120000" />
+      <workItem from="1669481531026" duration="2400000" />
+      <workItem from="1669484933102" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="Question 5 done">
       <created>1669318726220</created>
