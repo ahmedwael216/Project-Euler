@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9efbe1bb-f521-4ccb-9766-b126011edf02" name="Changes" comment="Question 5 done">
-      <change afterPath="$PROJECT_DIR$/src/Problem_12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
       <workItem from="1669481531026" duration="2400000" />
       <workItem from="1669484933102" duration="662000" />
       <workItem from="1669579069046" duration="1716000" />
-      <workItem from="1669635016783" duration="416000" />
+      <workItem from="1669635016783" duration="1130000" />
     </task>
     <task id="LOCAL-00001" summary="Question 5 done">
       <created>1669318726220</created>
