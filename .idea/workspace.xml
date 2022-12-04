@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9efbe1bb-f521-4ccb-9766-b126011edf02" name="Changes" comment="Question 5 done">
-      <change afterPath="$PROJECT_DIR$/src/Problem_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-Euler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-Euler/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
