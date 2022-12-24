@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9efbe1bb-f521-4ccb-9766-b126011edf02" name="Changes" comment="Question 5 done">
-      <change afterPath="$PROJECT_DIR$/src/Problem_36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9efbe1bb-f521-4ccb-9766-b126011edf02" name="Changes" comment="Question 5 done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +95,7 @@
       <workItem from="1671204720291" duration="314000" />
       <workItem from="1671259929776" duration="291000" />
       <workItem from="1671457462981" duration="49000" />
-      <workItem from="1671693181970" duration="688000" />
+      <workItem from="1671693181970" duration="2005000" />
     </task>
     <task id="LOCAL-00001" summary="Question 5 done">
       <created>1669318726220</created>
